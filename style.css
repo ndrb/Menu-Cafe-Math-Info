@@ -1,0 +1,41 @@
+body{
+    background: url("images/coffee-bg-noir.jpg") no-repeat center center fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    color: #FFD;
+}
+.menu {
+    font-size: 1.5em;
+    max-width: 85%;
+    margin: 1.5em auto;
+}
+/*Menu/Page Title*/
+.menu_title {
+    margin: 1em;
+    font-weight: bold;
+    text-align: center;
+}
+/*Section title*/
+.menu thead{
+    border-bottom: 0.1em solid #ddd;
+}
+table {
+    margin-bottom: 1em;
+}
+.menu_item {
+}
+.price {
+    padding-left:1em;
+    float: right;
+    font-weight: bold;
+}
+.carousel-inner img.fullscreen{
+    width: 66%;
+    height: 66%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
